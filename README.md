@@ -14,6 +14,6 @@ To get started, follow these simple steps:
 
 2. **Clone Your Fork:** Clone the repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/your-username/open-source-practice.git
+   git clone https://github.com/SaurabhDwivedi231003/My-first-Contribution.git
 ## Create a Branch: 
 Create a new branch for your changes using a descriptive name:

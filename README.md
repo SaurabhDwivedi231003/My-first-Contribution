@@ -1,6 +1,3 @@
-Sure, here's the entire README.md file with the additional section included:
-
-```markdown
 # Welcome to Open Source Practice Repository!
 
 Welcome to our open-source practice repository! This project is designed for beginners who want to learn about contributing to open-source projects. Whether you're a student, an enthusiast, or just curious about open source, you're in the right place.
@@ -18,7 +15,6 @@ To get started, follow these simple steps:
 2. **Clone Your Fork:** Clone the repository to your local machine using the following command:
    ```bash
    git clone https://github.com/SaurabhDwivedi231003/My-first-Contribution.git
-   ```
 
 3. **Create a Branch:** Create a new branch for your changes using a descriptive name:
    ```bash
@@ -58,6 +54,3 @@ Please note that we have a Code of Conduct in place to ensure a positive and inc
 ## License
 
 This project is licensed under the [MIT License](LICENSE). By contributing to this project, you agree to abide by the terms of this license.
-```
-
-You can copy and paste this entire content into your README.md file. This README provides a comprehensive guide for beginners to start contributing to your open-source project, including the additional section provided.

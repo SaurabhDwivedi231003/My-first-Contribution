@@ -25,6 +25,7 @@ To get started, follow these simple steps:
 
 5. **Commit Your Changes:** Commit your changes with a meaningful commit message:
    ```bash
+   git add .
    git commit -m "Added my contribution"
    ```
 

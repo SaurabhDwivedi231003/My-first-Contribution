@@ -17,3 +17,20 @@ To get started, follow these simple steps:
    git clone https://github.com/SaurabhDwivedi231003/My-first-Contribution.git
 ## Create a Branch: 
 Create a new branch for your changes using a descriptive name:
+git checkout -b my-contribution
+
+## Make Changes:
+Make your desired changes to the project. It could be fixing a bug, adding a feature, updating documentation, or anything else you'd like to practice.
+
+**Commit Your Changes:** Commit your changes with a meaningful commit message:
+```bash
+git commit -m "Added my contribution"
+
+Commit Your Changes: Push your changes to your forked repository:
+```bash
+git push origin my-contribution
+
+## Submit a Pull Request: Go to your forked repository on GitHub and click on the "New Pull Request" button
+
+
+
